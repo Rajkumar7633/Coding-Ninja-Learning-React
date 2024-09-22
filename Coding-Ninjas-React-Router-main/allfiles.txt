@@ -1,0 +1,624 @@
+2e92c2fec8af2bb1b2b6746b390418c7bffe1f8b
+657c2d582f1bb1be0ccc135ccd059d5cbedd307f
+85d2f35e9f0d650907b920bf94199799cba8196b
+c32d249db98a47330d01300c37739174f8e79e50
+dde4e6ad585c056b8ea880600fe70beff4951e65
+ec7800e993b0461920997e299981150269497623
+f7ddd5f7d564395eb292951628b0df2a4de93323
+188b67f2dbdbaac6419720a7c11826b451c484e2 
+24446294094ca7fa2ad07f9624025bdb74e0697f 
+4011c8084dbb3fc2438e77c4f7b0b54681f95fee 
+4145f435e5bd6d59ec6755b706e43e10b276a0ed 
+4185ab80545c2292d9b1bc73e72e4237d80e530d 
+562dba00cff0c8bc3b48518dca031a57de473c31 
+bf43816415eaa136b0677df3f29e5ee625e1c275 
+fb7602976b9b02ef8fb78c26b9999f135e392d1d .CFUserTextEncoding
+80a54c4a38c85f458342924413ae2c4270829fa6 .DS_Store
+b9c9e0f20eec71707f6fdd68de5349dd98af7369 .IdentityService
+e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 .IdentityService/-edadf7867132426f80dfdd1cf206963cV2AccountStore.json
+606476eb537de0081c73e6e9ead065e3da7fc897 .IdentityService/AadConfigurations
+9cd8ba0f15516efedab0c5cb2e5a680d89b97489 .IdentityService/V2AccountStore.json
+9d90df23c4c1bf6846186fd59241110228af65ac .anaconda
+434b366a1376e1b7c7fcd20939c40003ef692e65 .anaconda/navigator
+9b65add6772636e4635f2517498d124d7ebb1d81 .anaconda/navigator/anaconda-navigator.ini
+d99c632d139d81be12c4a86c6418ffd38a1f7728 .anaconda/navigator/content
+b592879782d1d933ecb8207494271eb08bcb82ea .anaconda/navigator/content/content.json
+f75a801e4fd4a14d305cf38b08e42a045ab44db0 .anaconda/navigator/content/events.json
+a2bf293e2b5ce7ec897df8677d747846e8dfd4e1 .anaconda/navigator/defaults
+e18aa7fe0ebab9060ca38c5fe03723bb051df4a4 .anaconda/navigator/defaults/defaults-2.0.0.ini
+1f783f08777748f82ae22ee94f196d2a359cddc9 .anaconda/navigator/logs
+e7ae15c8b981b6837f1d46ed5f503635275a07b4 .anaconda/navigator/logs/navigator.log
+288e9052f69f861cd1938753663812ae06172730 .anaconda/navigator/metadata
+ee5bc92b8f5aff31562eff1b6151ff5f0e5153fc .anaconda/navigator/metadata/metadata.json
+c5e035caecb676a4be872159aed29ac3bf463eef .anaconda/navigator/navigator.pid
+bacb5b7cb7ce68416cc644e748989f6dafc78d83 .anaconda/navigator/scripts
+08287bbc185ac8380a69e8badb0e3507385fc665 .anaconda/navigator/scripts/anaconda3
+bfd6ee56995f1b54bac140861f46044e1afe4e33 .anaconda/navigator/scripts/anaconda3/notebook.sh
+b7f379e494ad6b47a980ebd171770d86d22babf0 .anaconda/navigator/scripts/jupyterlab.sh
+ea86de4a285c9cf1251bcf2ce3aac61501dc111b .anaconda/navigator/scripts/notebook.sh
+8cb9883f59163d7e7f9c39e964dc7dcf024493ab .android
+92e7426d6bd993afdbd90391b3d32eafc4123ea3 .android/adbkey
+7a0c51a6357eb3af23056ec933b5e14dfb4be587 .android/adbkey.pub
+7ad4011a2141162a5121be7937825ba55af3ae73 .android/analytics.settings
+c0815a17887e510084b790dfd1ed7ae1d1fee272 .android/avd
+99bf953bf462fd7265214ae84203c230f0544143 .android/avd/Pixel_3a_API_33_arm64-v8a.avd
+cd899a9bde7db1a6809352e0bd80f84e5ecf36e8 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/AVD.conf
+a611635aa1b0f2517e642dddfe56db2487ffbe35 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/cache.img
+a56b111d3d99057259a12db68a99be2c7ef8d9b3 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/cache.img.qcow2
+d3184335e5679b18744173caa97cbce87bfd19fa .android/avd/Pixel_3a_API_33_arm64-v8a.avd/config.ini
+98bf4d3f84be319d2b0a09a2f40d11518c0eb055 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/emu-launch-params.txt
+2505634a4c009a5dcbdd74aafa2f9f53046d08b4 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/emulator-user.ini
+139b1720dc745f7932c7ef11fb4189ca7b73ad31 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/encryptionkey.img
+ada5f17b30050399f1e00c27df8674ace66433ee .android/avd/Pixel_3a_API_33_arm64-v8a.avd/encryptionkey.img.qcow2
+3bddb7f5e2f53959cefd30b8c2b33c064a155e1e .android/avd/Pixel_3a_API_33_arm64-v8a.avd/hardware-qemu.ini
+a88ecec4b158352887af5515592f244d0bb7e6a0 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/initrd
+9001931fcc634943b4c86bcf735691eaf4555f34 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/modem_simulator
+aa3bea80829e20b5b0709c9e0b5edeea537b8a5a .android/avd/Pixel_3a_API_33_arm64-v8a.avd/modem_simulator/etc
+73a3158492f0678ee15d09214dd2dc682bfb95a5 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/modem_simulator/etc/modem_simulator
+29f7f70287036f5869611ff36d9fbb053135392f .android/avd/Pixel_3a_API_33_arm64-v8a.avd/modem_simulator/etc/modem_simulator/files
+e5b45220fda527943ad5f4e1c309c542546295c8 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/modem_simulator/etc/modem_simulator/files/numeric_operator.xml
+b4363da9308ce1791a6cf333befcf21b1a0584d7 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/modem_simulator/iccprofile_for_carrierapitests.xml
+2ec61a45fc0eeee1962d86740c0a9487336cf936 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/modem_simulator/iccprofile_for_sim0.xml
+576cfdfaa8b08bdc14f456fc185c8895807b278b .android/avd/Pixel_3a_API_33_arm64-v8a.avd/modem_simulator/modem_nvram.json
+fe4a53201519d17d20be809214ab050e69869487 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/sdcard.img
+20c2cd509a0a4fec867e59b08c121d382ace380c .android/avd/Pixel_3a_API_33_arm64-v8a.avd/snapshots
+ddd7062e93f2a09617906a3f7dcfa24ce3211140 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/snapshots/default_boot
+6ccff8e01fa7e8369e14a94a9796e525654b7c8c .android/avd/Pixel_3a_API_33_arm64-v8a.avd/snapshots/default_boot/ram.bin
+3213b2cbebc7c4f6913d6b0fcd0ecbedfac09157 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/snapshots/default_boot/screenshot.png
+c62d4f029eca4323a508e933ed96ea49ce1a874f .android/avd/Pixel_3a_API_33_arm64-v8a.avd/snapshots/default_boot/snapshot.pb
+96d9067af929d33df9baad50bdabac855c82eb3f .android/avd/Pixel_3a_API_33_arm64-v8a.avd/snapshots/default_boot/textures.bin
+37e6e37c55bfd8fb3f0a25dd0b2017a4e6925144 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/userdata-qemu.img
+7436f7f24daea80d29fc798468c6d3a856348533 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/userdata-qemu.img.qcow2
+9e0f96a2a253b173cb45b41868209a5d043e1437 .android/avd/Pixel_3a_API_33_arm64-v8a.avd/userdata.img
+6a1b27c76653ec1660ae8d1167149c805cd5df0b .android/avd/Pixel_3a_API_33_arm64-v8a.avd/version_num.cache
+f0d6251fd4f6a3bfca2f98d5580b6ffe71f80c44 .android/avd/Pixel_3a_API_33_arm64-v8a.ini
+f38e72c081ff2d4150680e646f18c67b8e875e48 .android/avd/iphone_API_33.avd
+77f3ff20938082d8903bbaec830735dc6735faef .android/avd/iphone_API_33.avd/cache.img.qcow2
+59a8051bce4a3ef8e49e6589626a518dff4f5bb4 .android/avd/iphone_API_33.avd/config.ini
+9e9ab1dd9372877b6b83488289fd9e3a885828d3 .android/avd/iphone_API_33.avd/emu-launch-params.txt
+62fa763059d2bd8ef8aa16ead721e3d27f82a85c .android/avd/iphone_API_33.avd/emulator-user.ini
+fecc79f03ec0918a22644bd2cb8742817af3d383 .android/avd/iphone_API_33.avd/encryptionkey.img.qcow2
+eb87789b3cbe7023d32eae263c6c6a602aadf715 .android/avd/iphone_API_33.avd/hardware-qemu.ini
+babe8946ef24aafa867f31042f6b9bb066e7b345 .android/avd/iphone_API_33.avd/initrd
+88d6fdd30a253d20e3f7d4115edab827bd06ca3c .android/avd/iphone_API_33.avd/snapshots
+e5de8eab1b76108646d346de46cb8d155e1a872a .android/avd/iphone_API_33.avd/snapshots/default_boot
+7550e81ca0fb83830b303b176d47f3ed309989fe .android/avd/iphone_API_33.avd/snapshots/default_boot/ram.bin
+a4b4d9b113b5b40659fbec4e4b2301f68ffe161b .android/avd/iphone_API_33.avd/snapshots/default_boot/screenshot.png
+d0d18400602cab4ce229e8e0bb0b364e87fc786c .android/avd/iphone_API_33.avd/snapshots/default_boot/snapshot.pb
+768e6ff46a536b74f75d0b3316ac6101255a4cbb .android/avd/iphone_API_33.avd/snapshots/default_boot/textures.bin
+c01423e82786f8d1e6a3beec84be74b9fc205197 .android/avd/iphone_API_33.avd/userdata-qemu.img
+0a642f6977307c5857e939157bec73f1d551fd10 .android/avd/iphone_API_33.avd/userdata-qemu.img.qcow2
+bbfdb58009b5de4962067dfc554bf324a85c5ab8 .android/avd/iphone_API_33.ini
+c54a4d26ff4eb49841729a1f17e6f15561478c8c .android/cache
+1363e3d8c6b9dd8d35afe1bf588f1c11dcf803f9 .android/cache/sdkbin-1_027553a3-sys-img2-1_xml
+cfef676ffde0a91d52bd27e8c3afc1c68ac46cf7 .android/cache/sdkbin-1_029182a5-sys-img2-3_xml
+c0dafddd4f525c98e2d256cfe049c06e85fa14ee .android/cache/sdkbin-1_21774538-addon2-1_xml
+c4c87df48c57d92e39e6841ad82a8185d1a910b0 .android/cache/sdkbin-1_2193743a-addon2-3_xml
+6da94619ff520bca58ea0c9c8174b081dda71426 .android/cache/sdkbin-1_3b8d7fbb-sys-img2-1_xml
+d8210f9c821c1f543537bfa68af56e6623eafb01 .android/cache/sdkbin-1_3ba9aebd-sys-img2-3_xml
+ba600b952069a37d5b6c1dede31ef93e96b62dd8 .android/cache/sdkbin-1_48262a29-sys-img2-1_xml
+2ae83dd4d88b5beedfe89a513adde312f3790f62 .android/cache/sdkbin-1_4842592b-sys-img2-3_xml
+c4c91c74fb19a5f2dd0d3b8761c9945d0c9f2e4d .android/cache/sdkbin-1_53d0da2b-addon2-1_xml
+9f873b2dfca9bb953a83a9c2f6fe2471cd535820 .android/cache/sdkbin-1_53ed092d-addon2-3_xml
+d314f806b7b27bf208d49aaea995804aa3c63818 .android/cache/sdkbin-1_6dabee33-sys-img2-1_xml
+7f193afbc173f765b22218b619ea8a1dfb20c365 .android/cache/sdkbin-1_6dc81d35-sys-img2-3_xml
+fef68110191281d2724383daf841d0236a684e3c .android/cache/sdkbin-1_70436d91-sys-img2-1_xml
+d20895414803b6e811f49cca54315973fdbef8e6 .android/cache/sdkbin-1_705f9c93-sys-img2-3_xml
+2cc090ae2b486a9c2e2e126580d0a3cc37759851 .android/cache/sdkbin-1_725a2f81-sys-img2-1_xml
+c134793b2c95bf7dee39500b3c6f552d5586b640 .android/cache/sdkbin-1_72765e83-sys-img2-3_xml
+abddf9935df97dff83bd067b681b158f2e0cd180 .android/cache/sdkbin-1_754d6006-sys-img2-1_xml
+951b409507608360ab320e7642d7c920b748a7f1 .android/cache/sdkbin-1_75698f08-sys-img2-3_xml
+1c7eb1668a7627e180cd27996c0a2b43293c94f0 .android/cache/sdkbin-1_8f183e52-sys-img2-1_xml
+48c94cbbccbc9545635f8b6d9dc7f6b29a0bbef1 .android/cache/sdkbin-1_8f346d54-sys-img2-3_xml
+17cc83ff1704e2ee6758a57b51a7520617b539f0 .android/cache/sdkbin-1_a351a33a-sys-img2-1_xml
+33c1a33cb71ba1c01edd72b88baf11767cb221c8 .android/cache/sdkbin-1_a36dd23c-sys-img2-3_xml
+be533ae50b05b08d859ac00364a3aa94e0667648 .android/cache/sdkbin-1_b735609c-repository2-1_xml
+bba8566aa5573aa28e166e7ae9f68e9c2fecd5ef .android/cache/sdkbin-1_b743781d-repository2-2_xml
+c87a1ab55ff6150c70d8c919ec6f3610d4553c46 .android/cache/sdkbin-1_b7518f9e-repository2-3_xml
+14f5be31cc71c331937eaf4d67faa6efdeabb863 .android/cache/sdkbin-1_d1bcd755-sys-img2-1_xml
+d2396e1dff51e621e505eb5f99a9a34a123b659b .android/cache/sdkbin-1_d1d90657-sys-img2-3_xml
+f07700affad52a9affbba6cce0746505d100f70a .android/cache/sdkbin-1_d29da320-addons_list-3_xml
+808287fc485b79d36586d78d534e4aea602d67ed .android/cache/sdkbin-1_d2b9d222-addons_list-5_xml
+6648722b35f012f708dcd77b073031c8843eac6d .android/cache/sdkbin-1_d79225ab-addon2-1_xml
+c7807190dd73ddd96b64d7ffca0f887fee4b90e5 .android/cache/sdkbin-1_d7ae54ad-addon2-3_xml
+cdc080535aab0686dfe2d8e0469dca36dcfafe5c .android/cache/sdkbin-1_da180c69-sys-img2-1_xml
+cf2703a187663dd8616751b592bed50990fda3ec .android/cache/sdkbin-1_da343b6b-sys-img2-3_xml
+884b63dee8bf80bd1f1264df324fccee1d42b22a .android/cache/sdkinf-1_027553a3-sys-img2-1_xml
+956296195dcdd102b986e59e82408c94fb096138 .android/cache/sdkinf-1_029182a5-sys-img2-3_xml
+8289fa3fc2613eabd7e2152cf9a4eafb8589fb93 .android/cache/sdkinf-1_21774538-addon2-1_xml
+4d8ba55a6564cdbdae18611b38bfffdf58a7c6d1 .android/cache/sdkinf-1_2193743a-addon2-3_xml
+7691f8c470ebbfa1e9a6666533737390b47f67d1 .android/cache/sdkinf-1_3b8d7fbb-sys-img2-1_xml
+64fbbb1021bd3c5e24993a8d993d36fa4b7aae3e .android/cache/sdkinf-1_3ba9aebd-sys-img2-3_xml
+f2a5cf5307e2d6924b5022f6f8fc2c170320b06e .android/cache/sdkinf-1_48262a29-sys-img2-1_xml
+299d27aafc4516cefa107dd6d7364c67a7b84cce .android/cache/sdkinf-1_4842592b-sys-img2-3_xml
+4b8bb581cbee6fe39f1833caffce5530d2ab431f .android/cache/sdkinf-1_53d0da2b-addon2-1_xml
+e3307bac12b9565fc48f22407b086a6d13c1beda .android/cache/sdkinf-1_53ed092d-addon2-3_xml
+c28c47a212c8bd6230c2cc4edc20e00dee93b6ff .android/cache/sdkinf-1_6dabee33-sys-img2-1_xml
+ed8e7dda88582977bbdb398a2d82f1ba353d3593 .android/cache/sdkinf-1_6dc81d35-sys-img2-3_xml
+4d5885c1f3409f6ea6591b1654a1b7893e89b928 .android/cache/sdkinf-1_70436d91-sys-img2-1_xml
+3ae9a217736bfd0a4fb20b6f00b98176b3e68ce5 .android/cache/sdkinf-1_705f9c93-sys-img2-3_xml
+98433e8f6f4d8d3640caa1b0e4e38742eafb2dc2 .android/cache/sdkinf-1_725a2f81-sys-img2-1_xml
+c464a57588c698d09781e2074315b277b018cf4a .android/cache/sdkinf-1_72765e83-sys-img2-3_xml
+0a85605f4357c39fe9898f1f04f3cee39bb5f0c7 .android/cache/sdkinf-1_754d6006-sys-img2-1_xml
+8598cf98262e965bb780776b024c82207c26635a .android/cache/sdkinf-1_75698f08-sys-img2-3_xml
+41d1bc214ad91ae0b084be6e932b4058146d8a00 .android/cache/sdkinf-1_8f183e52-sys-img2-1_xml
+c8b869395a5e826dc5bf0ef52fe4253153a68ee0 .android/cache/sdkinf-1_8f346d54-sys-img2-3_xml
+bdf89c1bbbd28c8f6f62825f02a2e94773b410d5 .android/cache/sdkinf-1_a351a33a-sys-img2-1_xml
+93933538fe67c45a0599157fc4dcbbd06fca75bb .android/cache/sdkinf-1_a36dd23c-sys-img2-3_xml
+84da327714ae4f407c167aab1b9a6f53a72a45c7 .android/cache/sdkinf-1_b735609c-repository2-1_xml
+905725a46afb42531afc7a3fd078145666bae00f .android/cache/sdkinf-1_b743781d-repository2-2_xml
+0b5d2549bea5b5bed07069ba5bed7aa98336f7a9 .android/cache/sdkinf-1_b7518f9e-repository2-3_xml
+8f5cdb1da85ca7f8117590e9082e92e61d9a6ec9 .android/cache/sdkinf-1_d1bcd755-sys-img2-1_xml
+9bfa3a2a8deb2b89cbfe83ea41ff6f35896114cb .android/cache/sdkinf-1_d1d90657-sys-img2-3_xml
+6b0e98fc9eed074e52a3e5b3ac6f75c835c2ef9f .android/cache/sdkinf-1_d29da320-addons_list-3_xml
+eab8085b0c60e8b113ba1a3b1b2ae8fa09c98bd5 .android/cache/sdkinf-1_d2b9d222-addons_list-5_xml
+aadfdbce34f88d064e7396b3db0c0f55dbc5c20e .android/cache/sdkinf-1_d79225ab-addon2-1_xml
+0d3640a461c5aa10cded0723849d0f2a533e12cd .android/cache/sdkinf-1_d7ae54ad-addon2-3_xml
+c42606f082db4307f10c7302a7ac5f5626ab3921 .android/cache/sdkinf-1_da180c69-sys-img2-1_xml
+d97ab37f309567cef0b022e33f4b826761fe8048 .android/cache/sdkinf-1_da343b6b-sys-img2-3_xml
+3d74afcd3219c58e969443c9ca771e1115da1965 .android/debug.keystore
+4d6b8b711b8b3fde83718e5c7ed254f683d83e23 .android/devices.xml
+29e055b359c6b12d4304726b175d74b1df5a3c7a .android/emu-last-feature-flags.protobuf
+359dca641032043ce7ff2824f3d8fe0b4687d3f6 .android/emu-update-last-check.ini
+6d57140e6bc40a2c65f0eec1923d4bfc49468678 .android/maps.key
+6ebb1481d512d8b1cf948719a9a2860e11860899 .android/metrics
+f5d94e37cd3ae6f7d4a59a424d607039ffb2d628 .android/metrics/spool
+70589fa758e58c565cd2102a6aac02a85f2b3a71 .android/metrics/spool/0453e598-ddf7-4544-bada-be30e14657c9.trk
+936bda79cd9a4d79998b319f2381e4b139eac2b5 .android/metrics/spool/1e81296e-4ebd-43ba-ad1b-82418475ad6a.trk
+990fa647e5caa1fc85d2d3dd3a9d236347643857 .android/metrics/spool/216f5447-de76-425e-be91-58061b991558.trk
+0404db64b7cdb1049059dc4c45c85e7758ef9c6d .android/metrics/spool/26b30157-b4a2-429a-95c3-364128b66b8d.trk
+98cc9c99a065f308ad9c7c71e4ad39287c0dc3e7 .android/metrics/spool/3897650f-b317-4968-8a93-7b3e284fd99b.trk
+3cc60c90ad0a755535803149b899f65b174e542a .android/metrics/spool/4caddeab-cab2-4a86-a0dc-c998e0dd6b96.trk
+468dea815bf0f7fcd6b619ae4bb9107c3ad57bfd .android/metrics/spool/4dc0b73b-be37-48e5-b7e3-584738d88f18.trk
+4b1cb676d1f0ee0140efc70b9cf63a1d6c56becb .android/metrics/spool/5bdb91f5-38c5-471a-825b-1357eb732294.trk
+b642b89ae2f97da60c92af14c78fa217ff455093 .android/metrics/spool/77dcfdf2-4764-40fe-a0fe-9af6a19d9e6b.trk
+5944e8c9834a19c6bf8d06ab8336ca9eed9df352 .android/metrics/spool/9c819463-58ca-4b95-9caf-35538d037908.trk
+f3a603a5de09eec012cde094994ca93cde1b8ce1 .android/metrics/spool/a6f3f5f8-a224-484f-bfaa-a51461d0c2ec.trk
+21cd2d36c15f06619dcee3cccb44351f9203e0c0 .android/metrics/spool/cbea485c-783d-4de3-bd98-5d48c607da78.trk
+43e6bf8cd283eed984715af81e142e3913f51ead .android/metrics/spool/d6efc322-3eef-4853-942c-213f50bbaa91.trk
+cfa4e4bb7e6ea4dad64abb27725951efcdf0aa96 .android/metrics/spool/emulator-metrics-028f9f33-cf37-414b-8b02-cbfde2b7cb17-2310-0.trk
+8419cb65f9e9a4dca96496c284aba1128ffb0f28 .android/metrics/spool/emulator-metrics-14dfcfe3-df2c-414d-96c3-908070b99353-5984-0.trk
+acea0bed55e61f3345effeac273a3e646cd4ca4b .android/metrics/spool/emulator-metrics-3e22f743-7cb6-4cc9-9a1d-080b4675ce43-1388-0.trk
+2148e7d8857ac9687155babea58fdf90557067a8 .android/metrics/spool/emulator-metrics-8beb4761-dc85-4018-a95f-73fc2c60a514-1052-0.trk
+a47568af9f6b13496abf5e83ddebf950176af7ab .android/metrics/spool/f3f1d5d3-171e-4d83-8087-587753babc0a.trk
+824e23d449bec78761f48d8fde8ef056efa506cf .android/modem-nv-ram-5554
+2324b03982baf2cf5e52c9cef97022ba0629496f .aspnet
+33352ee6b06db801686a3af555efe01c987a1f0e .aspnet/dev-certs
+a977fecd0c50df12026fb3df9ab0ff5740904cbe .aspnet/dev-certs/https
+35f9d05b536e7c78f759eb90bba123b77c966716 .aspnet/dev-certs/https/aspnetcore-localhost-0BC28EA2DE7ECAC803C4FBDEB3B554C03B8EB0CE.pfx
+64828131f31543e0cb6d200670b4512d4438c4f5 .bash_history
+23b3f9b4c6a31cd25aa96416bc7cb79be32e2a28 .bash_profile
+517c4007a05a5a5bb2e5d0336398b8c1d1946f72 .cache
+691df869055716473715f95d11d0a6be02d66bcb .cache/matplotlib
+9f12ea7f9f415066227493a507456bbed97acb63 .cache/matplotlib/0a3c7dfbda6da1e8fce29232e8e96d987ababbbf71ebc8c75659e4132c367014
+9743a97dd73709094468a50c8103980fb136be6e .cache/matplotlib/b5c2d7eb833278881b952c8a52d20179eab87766b00b865000469a45c1838b7e
+a0005dcb8965e1e0637b903107a355214ca52b5f .cache/prisma
+3a18a8cef54827531f7a752b4f19d8f3bb6dd3c1 .cache/prisma/master
+c5888224a25da1928080e02f437a646a65a3e9dd .cache/prisma/master/79fb5193cf0a8fdbef536e4b4a159cad677ab1b9
+a5d37bb80eb34185b59db9cc838262c732c4812f .cache/prisma/master/79fb5193cf0a8fdbef536e4b4a159cad677ab1b9/darwin-arm64
+3af5a159a0fac99ba88b4cc56ee47a1dc7ef714f .cache/prisma/master/79fb5193cf0a8fdbef536e4b4a159cad677ab1b9/darwin-arm64/libquery-engine
+8c5a01a137694619c4f0d8b91ad54ec8b523f595 .cache/prisma/master/79fb5193cf0a8fdbef536e4b4a159cad677ab1b9/darwin-arm64/libquery-engine.gz.sha256
+c563ee8d47f3263e3c0484136e8e0933e5dd4566 .cache/prisma/master/79fb5193cf0a8fdbef536e4b4a159cad677ab1b9/darwin-arm64/libquery-engine.sha256
+620c6c452975c5853343cce8e1ec7d2abf758464 .cache/prisma/master/79fb5193cf0a8fdbef536e4b4a159cad677ab1b9/darwin-arm64/schema-engine
+4411d58b6486ff7d1c1752b371071a5be776738e .cache/prisma/master/79fb5193cf0a8fdbef536e4b4a159cad677ab1b9/darwin-arm64/schema-engine.gz.sha256
+705d9e6ab82248564709059b26d9ed093e7342f1 .cache/prisma/master/79fb5193cf0a8fdbef536e4b4a159cad677ab1b9/darwin-arm64/schema-engine.sha256
+346cde9c3c4fb461671ae4b44ce22b3bd3eff877 .cache/tooling
+f78fdf6f5d50f1aa57e0bb20ebb19cda266e80de .cache/tooling/gradle
+fe8dcb79e19e97eaf2d87753c4a778c8659af424 .cache/tooling/gradle/versions.json
+bb64df3fe9363215e0081b20faf647914940f999 .conda
+1eecdfdbf49d2f0572cd2d7f86e5f2b1e1dfa817 .conda/environments.txt
+78af65e6eea8ce9286aca13096a701781b28db75 .conda/envs
+81c4680474363e971a742f916f59f3735f73534a .conda/envs/bmat
+41157045510cc9a18815865225b3b7f9d73846c0 .conda/envs/bmat/bin
+fe866381ea64a19b4747bb3ec0d7901ab0f899d8 .conda/envs/bmat/bin/2to3
+e00f821127204269cfe70574acc996e8fdfb9535 .conda/envs/bmat/bin/2to3-3.10
+54c05b453a0b13ff40ed2296c9ec90b689068f0b .conda/envs/bmat/bin/brotli
+1427bf2cdfb7be649c05b0a9a8097354bcde2f9a .conda/envs/bmat/bin/bunzip2
+bf96556d6677067030c8bdc1af479b3116dbb625 .conda/envs/bmat/bin/bzcmp
+bd96c27c39871d6802675b182f7cf4481bec96ca .conda/envs/bmat/bin/bzdiff
+9bdac10184fd35545e67da4a28385237b212c825 .conda/envs/bmat/bin/bzegrep
+0314ca6038b03a9d36d5b5f877cab0cdbc2425e1 .conda/envs/bmat/bin/bzgrep
+d1cd1748a2e9d70655156bb04e4e67f9725b21fb .conda/envs/bmat/bin/bzip2recover
+a9223fdb121432787ac252fdf6fdffe163a6ec93 .conda/envs/bmat/bin/bzless
+d314043404976e58329f611c195d5c49eb917655 .conda/envs/bmat/bin/bzmore
+59f2c65b1b9ae2c495402391747ba514e7fd2b20 .conda/envs/bmat/bin/c_rehash
+4c747a3f773d772a4db08928192bf9299a72d294 .conda/envs/bmat/bin/captoinfo
+a3e855a205ddf45b90a224ce02a873cf55c11823 .conda/envs/bmat/bin/cjpeg
+b7ef397aaa0a6d6d5d9b8348f82f5a380624ca6a .conda/envs/bmat/bin/clear
+15a75306a0b58e3cfe5ac49a878152ceaae79a3b .conda/envs/bmat/bin/cwebp
+8b5ddf460271f18a8bad2130c851f26b1cbf2bb4 .conda/envs/bmat/bin/djpeg
+c9b6f2528737d8d2c86481b021ecbb97bbd2c4fb .conda/envs/bmat/bin/dwebp
+805497e71ef3188c857400effbea8c51a83ec72e .conda/envs/bmat/bin/f2py
+4119af53e5433e2a2e0c2b390fc576ac97992a46 .conda/envs/bmat/bin/f2py3
+618f22cada9d723f8deaffc0d3d1f0342b63353f .conda/envs/bmat/bin/fax2ps
+e59ac85df84ac63471eca01201fcae003c2df2ba .conda/envs/bmat/bin/fax2tiff
+bdb680a14b3e6810f6c5f5b11fde434f7833e8b5 .conda/envs/bmat/bin/fonttools
+bc490c6db3f7c3254195d36641307021647797a9 .conda/envs/bmat/bin/freetype-config
+cda577e07af8d05df300c813eba26c576a81d461 .conda/envs/bmat/bin/gif2rgb
+4a7ee6d0a0cbe1176b8c7003ca917a405279a080 .conda/envs/bmat/bin/gif2webp
+7750d9274f225e491a1711380651dd1508176ca4 .conda/envs/bmat/bin/gifbuild
+c66655c35580411e7f5c1d750e1639606a6b8655 .conda/envs/bmat/bin/gifclrmp
+23e738f569d6e1cb4780bd935708cc821a322695 .conda/envs/bmat/bin/giffix
+4dc2352c5364fc94d2c5c759d349f191a8f409ea .conda/envs/bmat/bin/giftext
+5d098bd8f625711710f2c280e668b35c70febb99 .conda/envs/bmat/bin/giftool
+bb24d3cb35585afe445340ded9fd0a7993fb18a0 .conda/envs/bmat/bin/idle3
+8f3d23ea82641cfc31306f472e380c59f88f5489 .conda/envs/bmat/bin/idle3.10
+718049bffdad68febb014752f2ca912158b6fe7d .conda/envs/bmat/bin/img2webp
+7c8aea29fd5d80f88d5a8308115f1ea5362bbf04 .conda/envs/bmat/bin/infocmp
+f296186ed1550adf590a8fb1389c613386e97ece .conda/envs/bmat/bin/jpegtran
+c560e9b01b0f8f953d7e6cd34e8b54517058c1bf .conda/envs/bmat/bin/jpgicc
+0fc436d7b69ca3c1106b9853dc108b73a320aef6 .conda/envs/bmat/bin/libdeflate-gunzip
+ae3d3d47746abb19dbf66c05d9056edabb125abe .conda/envs/bmat/bin/libpng-config
+bcd13e27fc1d5d0d7a74f39d324af8675e40e635 .conda/envs/bmat/bin/libpng16-config
+2c78685056dd7244754721cf9d009e7780aff3b1 .conda/envs/bmat/bin/linkicc
+a956d77d9710f1beec93f49ec675199914281022 .conda/envs/bmat/bin/lz4
+468bf8817085b8ec8ee1d8e27e9f4d362d5c02d3 .conda/envs/bmat/bin/lz4c
+a162c28614145b76be510401f499e23a8fde1435 .conda/envs/bmat/bin/lzcat
+b0db3abd5f3340c2e59e287551397e3dcb1c821f .conda/envs/bmat/bin/lzcmp
+b79a45394dfc48b236c75871ee401d69aea0775a .conda/envs/bmat/bin/lzegrep
+e95f172a9bbdcf679cf6355da96a893abb8bfa57 .conda/envs/bmat/bin/lzless
+f19861957f2cd46b04b5f63b66c5ea88195d854d .conda/envs/bmat/bin/lzmadec
+60b09c66927242d9f4d9afd118499e192e36b9b9 .conda/envs/bmat/bin/lzmainfo
+c8d93b934076f8cddb8be36bd33f0ac55d1b281c .conda/envs/bmat/bin/lzmore
+2d78e1a3781f2be059527c14b340abd742a6765c .conda/envs/bmat/bin/ncursesw6-config
+c31b4dfbdbf9ab6befa0985af8f36f1cb56a6d76 .conda/envs/bmat/bin/openssl
+ffc1bdf13c667c1ace23c6e91b8eb047afa9cbea .conda/envs/bmat/bin/pal2rgb
+7e44dc01b0b381b0ccc8e205629239584fe27d71 .conda/envs/bmat/bin/pip
+a54ea804a57ebe899cae9cec30b97f5fceab21e7 .conda/envs/bmat/bin/png-fix-itxt
+80d7bccc0af4acb70873b4c4216f85e438fe5ed1 .conda/envs/bmat/bin/pngfix
+c57e2c42824dc19eef5e5d40171a4b43377dff2a .conda/envs/bmat/bin/ppm2tiff
+30902ce40b4fbed0d42fdfbf66be8cbf5882854a .conda/envs/bmat/bin/psicc
+fea3ecc3a2b3fa044e2d8c454b595ba82315d09b .conda/envs/bmat/bin/pydoc
+e918700fcaa7821245286949332eb3b5b66d8126 .conda/envs/bmat/bin/pydoc3.10
+2265206d091a3b38b0f2d2883447f04b17092bb5 .conda/envs/bmat/bin/pyftmerge
+516001a58d9b0d3c0a0db27d176d7525a8832e0e .conda/envs/bmat/bin/pyftsubset
+c3cc99197bd759575b6a5d83a0803d223fc5b455 .conda/envs/bmat/bin/python
+d128efb223172075e019324109dbdb1d646df0e3 .conda/envs/bmat/bin/python3-config
+88795e331b527b38a7e0269ae7d78f898c4ed8ee .conda/envs/bmat/bin/python3.10
+4ba6f468b2e4e9b17370a5beb762b9f2d40c2c0d .conda/envs/bmat/bin/python3.10-config
+0646224851e437093216eed64ca3b68ff00a5b9c .conda/envs/bmat/bin/raw2tiff
+8e67b4d98fc29f7a6e184a8ade4d0bb2ebed7f92 .conda/envs/bmat/bin/rdjpgcom
+73c1790984872340560945cb02369fece9454704 .conda/envs/bmat/bin/reset
+b575ec876b1793c869b78b6bcb0485d600e5a6f9 .conda/envs/bmat/bin/sqlite3
+adfd96a84baee71f72a024c92cfdb012d560d0ed .conda/envs/bmat/bin/sqlite3_analyzer
+d817b117998e230c083d2a826d980ebc34175911 .conda/envs/bmat/bin/tabs
+4510d69d058776b12f913db3e72916d5f8b7d57d .conda/envs/bmat/bin/tclsh
+114b332cca09615856a633a04110fab83132726b .conda/envs/bmat/bin/tclsh8.6
+7b1facef8236ebaa86a3ba46e2a156a0114ca5ea .conda/envs/bmat/bin/tic
+3096f5fea6fdc884e18d10447f69c02aa83bc09a .conda/envs/bmat/bin/tiff2bw
+ad40a9dd68d7c0f7d56766814202002f0e9017b4 .conda/envs/bmat/bin/tiff2pdf
+7c626a4ce4a2ed8394050ce9982557e179c5b539 .conda/envs/bmat/bin/tiff2ps
+320c0daf2bdbe98e1a1df58c40183e29123dfed5 .conda/envs/bmat/bin/tiff2rgba
+82816e1b869ca2a3f86ed960c9b84068d6e76157 .conda/envs/bmat/bin/tiffcmp
+7f2a9f795ba5d5ee0faf4b04f5495376393d5834 .conda/envs/bmat/bin/tiffcp
+b806a3cc24078d220239e5befc4b98552eb51dcf .conda/envs/bmat/bin/tiffcrop
+5e32d45107ac0a2a52a6ea069ba3805501221b0a .conda/envs/bmat/bin/tiffdither
+002b279a004861231bc760a2d0c93ba190209258 .conda/envs/bmat/bin/tiffdump
+77740768226eef62817dc89b54a24b41cfb2bc65 .conda/envs/bmat/bin/tiffinfo
+c337623f59f9196dab925d111ba9bdd8a07404b4 .conda/envs/bmat/bin/tiffmedian
+7d87223e988708950db068a81a2f1c4db36bf4e2 .conda/envs/bmat/bin/tiffset
+69d0c56d160de781a14b639a8eb06bf140e2f55e .conda/envs/bmat/bin/tiffsplit
+0797e55f9a9339c99a8b8b2fb24518aba6b43595 .conda/envs/bmat/bin/tificc
+82473097a7e90c8c378773295b9306f47a4c9e29 .conda/envs/bmat/bin/toe
+199c9f9e1c24d73a9e60f524a8f4f837748b415c .conda/envs/bmat/bin/tput
+9efc15de3c23a3836035ed1b03678abcd1b0b09a .conda/envs/bmat/bin/transicc
+10b88e4a93705cf1b9034277d617d6e69fa1b11c .conda/envs/bmat/bin/tset
+1e86c78e353a7c66b4272b3ce636a46692cb1897 .conda/envs/bmat/bin/ttx
+613f917fd7cc85716e148ab41b695e43f96c2fde .conda/envs/bmat/bin/unzstd
+2eb01e21a4f0c285fdb46a5bb98423b3eb3f1915 .conda/envs/bmat/bin/webpinfo
+ede409bbf4e21d2e97bb2a017b8409a7eb9597ad .conda/envs/bmat/bin/webpmux
+98e2a96d7555f8893514408f80280d5341c1021c .conda/envs/bmat/bin/wheel
+62876afa034a4b64bed65b4bd0f2e12cfd77c3de .conda/envs/bmat/bin/wish
+9624eb53a56734334933e7ee5ce6c2199d5716bd .conda/envs/bmat/bin/wish8.6
+82fd2a84b0fdaff61ed114d6c80b2d8d1124006e .conda/envs/bmat/bin/wrjpgcom
+54573b389d214c7ed595e70984a297e38faef6df .conda/envs/bmat/bin/xz
+87427e53c1c99778994654c9ab3963210558f05f .conda/envs/bmat/bin/xzdec
+626719e8799fe57a60950ba222bd5fde3387f07a .conda/envs/bmat/bin/xzdiff
+0ea926e0a7dfbb00f0e5da45a4f936294b63b201 .conda/envs/bmat/bin/xzgrep
+76b9670dbf7072c736087cca24913b1a1074bb75 .conda/envs/bmat/bin/xzless
+74508311da59555abf3cd20abb88387572878112 .conda/envs/bmat/bin/xzmore
+e47e77ccbe48217854ccaeabe867e25ff92a60f9 .conda/envs/bmat/bin/zstd
+61efaa9474a0058699a0780c769c4b49e487b3e1 .conda/envs/bmat/bin/zstdgrep
+17726a4f6e1efb5328d0f2c116f20500149db41b .conda/envs/bmat/bin/zstdless
+349e137165f772a9b062e7a3736f2e46f2297534 .conda/envs/bmat/conda-meta
+cb88dd03df5650f2c8b1af23b0cebd1b6a616c24 .conda/envs/bmat/conda-meta/blas-1.0-mkl.json
+7ff8fbdb711893d254dbce80640e174f2fd481ad .conda/envs/bmat/conda-meta/brotli-1.0.9-hca72f7f_7.json
+ccbd0296ac9cc4288bac846e101f892b2c385f2f .conda/envs/bmat/conda-meta/brotli-bin-1.0.9-hca72f7f_7.json
+2328d83bb2bbc32dcca521a017119905e9814317 .conda/envs/bmat/conda-meta/bzip2-1.0.8-h1de35cc_0.json
+5d714c195ce22358197f55e361683ed0953e947f .conda/envs/bmat/conda-meta/ca-certificates-2023.05.30-hecd8cb5_0.json
+5acddcf5e2eaf0f578a1247374c71b5b4df467c7 .conda/envs/bmat/conda-meta/contourpy-1.0.5-py310haf03e11_0.json
+52a7139a4faef0222ae7ae7fdcec0003650dd3a6 .conda/envs/bmat/conda-meta/cycler-0.11.0-pyhd3eb1b0_0.json
+3e7dd4a6ea179a0cd850b1340bcf100ca6b039b6 .conda/envs/bmat/conda-meta/fonttools-4.25.0-pyhd3eb1b0_0.json
+a8ec5f4e5d58eb18698d9b9ae6fd8cbf19353ae7 .conda/envs/bmat/conda-meta/freetype-2.12.1-hd8bbffd_0.json
+bc6912b318f97868a10472067a9166716b4c07ff .conda/envs/bmat/conda-meta/giflib-5.2.1-h6c40b1e_3.json
+c7530fd0620f1030126f97a0d95eaf5120facbd9 .conda/envs/bmat/conda-meta/history
+00e93b645170521df42dfb6cb3635d61ed41d993 .conda/envs/bmat/conda-meta/intel-openmp-2023.1.0-ha357a0b_43547.json
+722dd9e941c2811e4b72599f8923fdc35135b784 .conda/envs/bmat/conda-meta/jpeg-9e-h6c40b1e_1.json
+60914a5d497491469213b10a68556a618418d607 .conda/envs/bmat/conda-meta/kiwisolver-1.4.4-py310hcec6c5f_0.json
+d0018c2d6951735a2782848c1c6d9e286ca0cde6 .conda/envs/bmat/conda-meta/lcms2-2.12-hf1fd2bf_0.json
+9be4468c64a8f77ea791c0b7525d7a10474f0585 .conda/envs/bmat/conda-meta/lerc-3.0-he9d5cce_0.json
+839e5a2a6f79cc4d65f59f135d41553bea2eb9db .conda/envs/bmat/conda-meta/libbrotlicommon-1.0.9-hca72f7f_7.json
+8b72b6017c04b61592dbec54b3770825630bd519 .conda/envs/bmat/conda-meta/libbrotlidec-1.0.9-hca72f7f_7.json
+d0a73a94114726320e40eab56b3b2c593e4a7b94 .conda/envs/bmat/conda-meta/libbrotlienc-1.0.9-hca72f7f_7.json
+6a9ed9018e158c38a0fdbfe6559b13e7a1a03316 .conda/envs/bmat/conda-meta/libcxx-14.0.6-h9765a3e_0.json
+0059415d2b6e1f6a387ed0f8122467b105a30f01 .conda/envs/bmat/conda-meta/libdeflate-1.17-hb664fd8_0.json
+8e355ffa6235d1908537286fcb97ea6f04daf487 .conda/envs/bmat/conda-meta/libffi-3.4.4-hecd8cb5_0.json
+80170bbe683ab331dd3e086574eef21a2b3e4315 .conda/envs/bmat/conda-meta/libpng-1.6.39-h6c40b1e_0.json
+f83041c3956be257182cf07d220de88bd790d4d6 .conda/envs/bmat/conda-meta/libtiff-4.5.0-hcec6c5f_2.json
+35f97425f6be2a0d636b14030265ff2cda81c1fa .conda/envs/bmat/conda-meta/libwebp-1.2.4-hf6ce154_1.json
+e637c49c089b402043f16d2812bf027a6d55eb8a .conda/envs/bmat/conda-meta/libwebp-base-1.2.4-h6c40b1e_1.json
+89cc046221f72c8ebb6274459d17871c90758474 .conda/envs/bmat/conda-meta/lz4-c-1.9.4-hcec6c5f_0.json
+7427df2b96c7aa79ef4bc6d147d24ecf9c8c21da .conda/envs/bmat/conda-meta/matplotlib-3.7.1-py310hecd8cb5_1.json
+ec06f19726a1cf57f383d69d4fd30d672388a887 .conda/envs/bmat/conda-meta/matplotlib-base-3.7.1-py310ha533b9c_1.json
+29a93da6ff7a64f60de1ed44bceae798da261f91 .conda/envs/bmat/conda-meta/mkl-2023.1.0-h59209a4_43558.json
+58dfcd90695a98067a62a65959ec111e470defcc .conda/envs/bmat/conda-meta/mkl-service-2.4.0-py310h6c40b1e_1.json
+6e9b632a1c241361b8fa24e0b490a32313260f23 .conda/envs/bmat/conda-meta/mkl_fft-1.3.6-py310h3ea8b11_1.json
+c0177ec31625fdd6f6d4c29b09c555205decda7f .conda/envs/bmat/conda-meta/mkl_random-1.2.2-py310h3ea8b11_1.json
+7834ab8f47c2270b878cf1e4c10eb098aa1b02f2 .conda/envs/bmat/conda-meta/munkres-1.1.4-py_0.json
+2a0e91d72170f486c266b9d4b10fd80a1a3bac1f .conda/envs/bmat/conda-meta/ncurses-6.4-hcec6c5f_0.json
+83e594f6e1c5b1f7240428a8a70870e0654b4927 .conda/envs/bmat/conda-meta/numpy-1.25.0-py310h827a554_0.json
+04e42a641ced1781bdab1f71b9f4b3994f5d7578 .conda/envs/bmat/conda-meta/numpy-base-1.25.0-py310ha186be2_0.json
+1f57bb350d94f791118512288488af174b59ce1a .conda/envs/bmat/conda-meta/openssl-3.0.9-hca72f7f_0.json
+d4dcac3c6c380c2d3c38bcd5adb108f0e40307ad .conda/envs/bmat/conda-meta/packaging-23.0-py310hecd8cb5_0.json
+ddcd6c98cfea1aa55d16b4021764ddabb0dcc8af .conda/envs/bmat/conda-meta/pillow-9.4.0-py310hcec6c5f_0.json
+15c6d1e854febd1f7a711522abbff02a25b70431 .conda/envs/bmat/conda-meta/pip-23.2.1-py310hecd8cb5_0.json
+43a0a54b61f8e2599445f28bada89378399cdfef .conda/envs/bmat/conda-meta/pyparsing-3.0.9-py310hecd8cb5_0.json
+d427b68e59fa65a92497ac6e5e317bc86c6b1acc .conda/envs/bmat/conda-meta/python-3.10.12-h5ee71fb_0.json
+1133ba51f6060981c190b83ae20bc8e2a0fc5140 .conda/envs/bmat/conda-meta/python-dateutil-2.8.2-pyhd3eb1b0_0.json
+736c074c90713d764adfcf1a2ec04c06ca00c905 .conda/envs/bmat/conda-meta/readline-8.2-hca72f7f_0.json
+b55979c0b77a272feb8c0188d1ca0f1db00b64b2 .conda/envs/bmat/conda-meta/setuptools-68.0.0-py310hecd8cb5_0.json
+4999a86bb07aead0460d84982f806479a1f97e22 .conda/envs/bmat/conda-meta/six-1.16.0-pyhd3eb1b0_1.json
+ce0b03109c8fcd5f901e806904fa7a1499629efd .conda/envs/bmat/conda-meta/sqlite-3.41.2-h6c40b1e_0.json
+18768ecd9adaf4bbaa99fb449cc36617594f1793 .conda/envs/bmat/conda-meta/tbb-2021.8.0-ha357a0b_0.json
+85ce5e89b2d4a4bf41d15184031ea55fd5ccee0e .conda/envs/bmat/conda-meta/tk-8.6.12-h5d9f67b_0.json
+bffd7b50cc4a61cf17ca117bb433c1e0f4dfe326 .conda/envs/bmat/conda-meta/tornado-6.2-py310hca72f7f_0.json
+0a31d6ebff8934c802086db412d7b6dea183b559 .conda/envs/bmat/conda-meta/tzdata-2023c-h04d1e81_0.json
+e7d85c979056cec420683f3fe8cbda2ed1a0c1cc .conda/envs/bmat/conda-meta/wheel-0.38.4-py310hecd8cb5_0.json
+d63ce6e695a027a1dbda404a70277139fc64cb41 .conda/envs/bmat/conda-meta/xz-5.4.2-h6c40b1e_0.json
+729f62d4305ab2590dfe8be37415d5b6081cb1ad .conda/envs/bmat/conda-meta/zlib-1.2.13-h4dc903c_0.json
+bda22c6a7d34f0182929555213d839b44ea60ea3 .conda/envs/bmat/conda-meta/zstd-1.5.5-hc035e20_0.json
+3b95c8e4a54e40725ff130a07333821b3e08bf56 .conda/envs/bmat/include
+f9ab0b00d2e6a3f7d01f25ad0fbd47a95e06c6c1 .conda/envs/bmat/include/Lerc_c_api.h
+4fc784a9dc3bebbb7eed35e629af82026f180df1 .conda/envs/bmat/include/Lerc_types.h
+8a7000b0a8dc67acfba4121d8f01b654c1faa02b .conda/envs/bmat/include/X11
+d9e23c4be3310cf518f47af98c97d9bef13802ef .conda/envs/bmat/include/X11/DECkeysym.h
+4a0655a237600d2a57435b9d63bc75614751c79b .conda/envs/bmat/include/X11/HPkeysym.h
+78d1286bb94743b4af6837f21ecef87d62ce5c34 .conda/envs/bmat/include/X11/Sunkeysym.h
+c2c57afffc6612855cd556b75d2a20e137bde224 .conda/envs/bmat/include/X11/X.h
+dd287e2493e10ec9b66feed68b973abbabcb20a4 .conda/envs/bmat/include/X11/XF86keysym.h
+485a4236db858364b3b9b7c2d7495c9984a1ba7c .conda/envs/bmat/include/X11/Xatom.h
+6d63002efeabf316d56783234c0c2a566eaaa46d .conda/envs/bmat/include/X11/Xfuncproto.h
+56d049c7adea950d89f22803051165e6f02f2c27 .conda/envs/bmat/include/X11/Xlib.h
+bf372fb0f06dc3e869bfae214ce25a502884b80c .conda/envs/bmat/include/X11/Xutil.h
+76cbde2d0538d41a5903aef70266aed8c8ffaa39 .conda/envs/bmat/include/X11/ap_keysym.h
+617274fa806be589eb1b45fc7488ccd4c09dec4b .conda/envs/bmat/include/X11/cursorfont.h
+2547abede3f39d63f3dd36204936c5d088feeab5 .conda/envs/bmat/include/X11/keysym.h
+5c13c61d43a0a953337c7bed2b45dac7ec463e14 .conda/envs/bmat/include/X11/keysymdef.h
+13e2faa6d97846236402779a111568731794361c .conda/envs/bmat/include/X11/xbytes.h
+868182940dbd10f41839baa77ee0a1dd4cfca083 .conda/envs/bmat/include/brotli
+0f5c8f9d111701c66b483f844b310d74af11c20c .conda/envs/bmat/include/brotli/decode.h
+b2774cb6316269c730998bf7aab82ef75a2de469 .conda/envs/bmat/include/brotli/encode.h
+825237a3357931389a6d5a4a1937f7381234bbaa .conda/envs/bmat/include/brotli/port.h
+eff1a3cd07aefe5020035ef491dd42b75de48a2e .conda/envs/bmat/include/brotli/types.h
+8966a6c5804e87a37354e28882117af0876fa0d2 .conda/envs/bmat/include/bzlib.h
+cfa6c3d4b21e9571d775d94d91f2a1cec94f8a08 .conda/envs/bmat/include/c++
+6174d7571f0672c0c97cc88675938536f681d2c9 .conda/envs/bmat/include/c++/v1
+c768101ace3c9751f38a957912ee70616489b1ec .conda/envs/bmat/include/c++/v1/__algorithm
+29ad83f968102fc2c6d6478234d04580cd662d9c .conda/envs/bmat/include/c++/v1/__algorithm/adjacent_find.h
+817a4bc89ca0066f5fe09ea50f0bc74d70d2e9a5 .conda/envs/bmat/include/c++/v1/__algorithm/all_of.h
+f4116d913059b990d380d1bc28a0003753d54f1e .conda/envs/bmat/include/c++/v1/__algorithm/any_of.h
+2558dd0b27b9ae3e26ab4cb1fca2d7e781fd0d31 .conda/envs/bmat/include/c++/v1/__algorithm/binary_search.h
+a51c1015be3f817d05bd7856a5b864c8f3b8cf45 .conda/envs/bmat/include/c++/v1/__algorithm/clamp.h
+b3f971e4f0528135b49758908f34fde3a0468106 .conda/envs/bmat/include/c++/v1/__algorithm/comp.h
+0802d2496f5c0b140d17f896022f10c1cd119ca0 .conda/envs/bmat/include/c++/v1/__algorithm/comp_ref_type.h
+65f0e0b0ef7d671dac7a29f2e7a5268aa756e7e3 .conda/envs/bmat/include/c++/v1/__algorithm/copy.h
+ac733290abe4946264e3d2c270df1ce1dde2c057 .conda/envs/bmat/include/c++/v1/__algorithm/copy_backward.h
+d32514d999b51dd424a8f5daac9c108af8df60e4 .conda/envs/bmat/include/c++/v1/__algorithm/copy_if.h
+cdcc0d50dbf11ae12f383ead523997b4716046f4 .conda/envs/bmat/include/c++/v1/__algorithm/copy_n.h
+81a2c186f83b9a5590d794fff48ffb3cf1a10343 .conda/envs/bmat/include/c++/v1/__algorithm/count.h
+00f5d671da57d4950e3322903b601f3b3410c7ca .conda/envs/bmat/include/c++/v1/__algorithm/count_if.h
+4c9ad05ad6b891bc5b3bcf992deb696ab069cbde .conda/envs/bmat/include/c++/v1/__algorithm/equal.h
+e13f0bdd96953ab7a79cae72a5dc006694659cab .conda/envs/bmat/include/c++/v1/__algorithm/equal_range.h
+0cb36b02c83189d06aa9bce321d41acf7c84284e .conda/envs/bmat/include/c++/v1/__algorithm/fill.h
+857ac14157315f3ed69468896a5e41245d916008 .conda/envs/bmat/include/c++/v1/__algorithm/fill_n.h
+2a6dfbe41a94598590a864dae94f1b890afdd136 .conda/envs/bmat/include/c++/v1/__algorithm/find.h
+dd0f7d7ac03df6f56e8cfe9276fe456d4392a792 .conda/envs/bmat/include/c++/v1/__algorithm/find_end.h
+69354f61769f2416cfa5690747445c0a57050e9d .conda/envs/bmat/include/c++/v1/__algorithm/find_first_of.h
+a94196a16ac560fceb55b40602c0fc0734fcd940 .conda/envs/bmat/include/c++/v1/__algorithm/find_if.h
+e057db5efa492c3ca48ddbe9e2a9376c72d5622c .conda/envs/bmat/include/c++/v1/__algorithm/find_if_not.h
+1612ffa5c0022f8f2cb872be29d2a4cdb5cbe29f .conda/envs/bmat/include/c++/v1/__algorithm/for_each.h
+00e3fb9c1db8b773b634a2c4f91385d645c07ad4 .conda/envs/bmat/include/c++/v1/__algorithm/for_each_n.h
+10834cdb7438815bc1f07322ac5eacdabccd5ffc .conda/envs/bmat/include/c++/v1/__algorithm/generate.h
+595007cdd34b696fcc44a2a59e1cb1b19f9d29c1 .conda/envs/bmat/include/c++/v1/__algorithm/generate_n.h
+5d36ff5da98587b2f935b028ad404e3ff8320c1d .conda/envs/bmat/include/c++/v1/__algorithm/half_positive.h
+8d29b7b69b47c859988ce3cf416469862910eff0 .conda/envs/bmat/include/c++/v1/__algorithm/in_in_out_result.h
+c8fe43d039dcbc93819c23c7e1ef0fc7dfdaac21 .conda/envs/bmat/include/c++/v1/__algorithm/in_in_result.h
+dcf72d08dd8a89760473e9411a278681927e335c .conda/envs/bmat/include/c++/v1/__algorithm/in_out_result.h
+9d0bc694c0d34991091cde9f1eb1d77c76cbdc5f .conda/envs/bmat/include/c++/v1/__algorithm/includes.h
+e6f1efc011b150d573b2e38df3fb120506afc9c5 .conda/envs/bmat/include/c++/v1/__algorithm/inplace_merge.h
+925ba8bfb8bdf8265ae9521db8d62ce93978dc4e .conda/envs/bmat/include/c++/v1/__algorithm/is_heap.h
+aa23b6d039d3cefcd47141ff1f44126080906477 .conda/envs/bmat/include/c++/v1/__algorithm/is_heap_until.h
+e5b2214aa069b29c225d53c129866c8bb46b8c77 .conda/envs/bmat/include/c++/v1/__algorithm/is_partitioned.h
+344aa763ad0e22ccd5b4674ca725f99c3ea678d1 .conda/envs/bmat/include/c++/v1/__algorithm/is_permutation.h
+57953295a88853d77053cdf2bccf0c7df4f53594 .conda/envs/bmat/include/c++/v1/__algorithm/is_sorted.h
+46e0722ddb4c80fcc744ae2349de6c47d48581cf Desktop
+4ed1a0939cb425368405fab7a92cb157dae1b6bc Desktop
+5be8db2ab52a51ab7e06458f3108e2d1d557510c Desktop
+93594ca2f505ce7196a0e260f87b8a67b65de067 Desktop/Coding-Ninjas-React-Router-main
+4d29575de80483b005c29bfcac5061cd2f45313e Desktop/Coding-Ninjas-React-Router-main/.gitignore
+58beeaccd87e230076cab531b8f418f40b6d1aeb Desktop/Coding-Ninjas-React-Router-main/README.md
+35c58639e8594375f49341ce5bf5843040a391fb Desktop/Coding-Ninjas-React-Router-main/package-lock.json
+5f28d41e8003a6cc2a8f06a6b79fdef5dd68fff1 Desktop/Coding-Ninjas-React-Router-main/package.json
+41f5dba7de833e15e9d81470513ce3a64c511985 Desktop/Coding-Ninjas-React-Router-main/public
+a11777cc471a4344702741ab1c8a588998b1311a Desktop/Coding-Ninjas-React-Router-main/public/favicon.ico
+1803a5cd005eb0e19a6ea789d5ece21a134ad1e6 Desktop/Coding-Ninjas-React-Router-main/public/index.html
+fc44b0a3796c0e0a64c3d858ca038bd4570465d9 Desktop/Coding-Ninjas-React-Router-main/public/logo192.png
+a4e47a6545bc15971f8f63fba70e4013df88a664 Desktop/Coding-Ninjas-React-Router-main/public/logo512.png
+080d6c77ac21bb2ef88a6992b2b73ad93daaca92 Desktop/Coding-Ninjas-React-Router-main/public/manifest.json
+e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e Desktop/Coding-Ninjas-React-Router-main/public/robots.txt
+e57dfdcff8483768cad11d8e02b34c1129288581 Desktop/Coding-Ninjas-React-Router-main/src
+c155a0ac1c8dab0414e45f77b763cda37aa69388 Desktop/Coding-Ninjas-React-Router-main/src/App.js
+3470e4b68240b31e94918a271d4931ae8be2d9ec Desktop/Coding-Ninjas-React-Router-main/src/components
+05e523f5db325c3aad88b38cc0377e8ab296b1a8 Desktop/Coding-Ninjas-React-Router-main/src/components/button
+1940cd836346e9fefb3053a3cb91fba3d02151a3 Desktop/Coding-Ninjas-React-Router-main/src/components/card
+e2862f6762814adcf554e82d9c7cac155096f292 Desktop/Coding-Ninjas-React-Router-main/src/components/card/index.jsx
+b8b9ff9a4b661acd37ed1ac8010a5a2943666d34 Desktop/Coding-Ninjas-React-Router-main/src/components/card/style.module.css
+788fa6023e91151cc5e5f7f9cc2679632e5cb9cb Desktop/Coding-Ninjas-React-Router-main/src/components/error-toast
+7b8f452552b962bd3499583abc77279cc18d1952 Desktop/Coding-Ninjas-React-Router-main/src/components/error-toast/ErrorToast.jsx
+7e9daba8c0ea8400554dc33f877bc3d446402716 Desktop/Coding-Ninjas-React-Router-main/src/components/error-toast/ErrorToast.module.css
+108de60f19d3a006ccd40aef3e65374df0330646 Desktop/Coding-Ninjas-React-Router-main/src/components/loader
+e100ec1d5d31a93e849a35f0e769a7d295786a56 Desktop/Coding-Ninjas-React-Router-main/src/components/loader/Loader.jsx
+5ef2ac13ec3a39ac33f046ff1d018f45e6d600f7 Desktop/Coding-Ninjas-React-Router-main/src/components/loader/Loader.module.css
+56a1962520bce117ac47892006ad3ecb29763d83 Desktop/Coding-Ninjas-React-Router-main/src/components/nav
+a54ff148fd45fcebd66ba413b48eea65184fa06b Desktop/Coding-Ninjas-React-Router-main/src/components/nav/Nav.jsx
+23fe2d14b188e7ef559aa8a1a2759fbc84cfc9c2 Desktop/Coding-Ninjas-React-Router-main/src/components/nav/Nav.module.css
+622c4e1ff3f89732c831e261a9f143ab8b958913 Desktop/Coding-Ninjas-React-Router-main/src/context
+4683e95f17f5d60bc58e19b8edc4c43d9800b9da Desktop/Coding-Ninjas-React-Router-main/src/context/Theme.context.js
+2ae909843ea41b6ce65b144eb74b32d74c8e92b2 Desktop/Coding-Ninjas-React-Router-main/src/data
+4f0f0df878f24979b70edd412a8ba86e5d66f44b Desktop/Coding-Ninjas-React-Router-main/src/data/courses.json
+c54f37406d5d39db7ed9225e682019ed652d2c14 Desktop/Coding-Ninjas-React-Router-main/src/index.css
+e9f3663b5259e13a71380cb87aa1de6c9e9c8b29 Desktop/Coding-Ninjas-React-Router-main/src/index.js
+14cac7f7d3f1e07f82b7c836bae07f8f3162627b Desktop/Coding-Ninjas-React-Router-main/src/pages
+c94bc4b83c4ca70496d8063463c260ebbdbd497e Desktop/Coding-Ninjas-React-Router-main/src/pages/app
+501312c20c9a93df5a491cd75275e01bd80b44ad Desktop/Coding-Ninjas-React-Router-main/src/pages/app/chapter
+c9bce432c5ce8f2827f0b5106fcacde50acfc80b Desktop/Coding-Ninjas-React-Router-main/src/pages/app/chapter/Chapter.jsx
+1681fa019a4be4f519c2274cb2b602908532856b Desktop/Coding-Ninjas-React-Router-main/src/pages/app/chapter/Chapter.module.css
+734a3cfdb37e6dd69cf9fa4b354e9b9aa1cfd270 Desktop/Coding-Ninjas-React-Router-main/src/pages/app/courses
+b0340726ea04dac105be1e43f28c859217a049f2 Desktop/Coding-Ninjas-React-Router-main/src/pages/app/courses/Courses.jsx
+3eacade7447af51e1af23bec716e37fbe0d11b88 Desktop/Coding-Ninjas-React-Router-main/src/pages/app/courses/Courses.module.css
+75cd5e41b6eb8535723560306ec59e3cb67f502a Desktop/Coding-Ninjas-React-Router-main/src/pages/app/details
+928ebd9a3e4564e5392320f31913273b371a7770 Desktop/Coding-Ninjas-React-Router-main/src/pages/app/details/Details.jsx
+c47d26a6f9a2e25aefcf17cfdd22d460f607fb68 Desktop/Coding-Ninjas-React-Router-main/src/pages/app/details/Details.module.css
+770453c0d0141faab64f530fb94f6383d3b1967b Desktop/Coding-Ninjas-React-Router-main/src/pages/app/hero
+9df401280d78ed7953aa87b16ebaafc153df90cb Desktop/Coding-Ninjas-React-Router-main/src/pages/app/hero/Hero.jsx
+ded0219d340f59c807af912173c422fe3cfa3136 Desktop/Coding-Ninjas-React-Router-main/src/pages/app/hero/Hero.module.css
+7e03452ee65dfafa8ec8b65d62ef2aa4400cfe0d Desktop/Coding-Ninjas-React-Router-main/src/pages/app/learn
+df6b433466da277b4fabaa3076e5aa006231b1ab Desktop/Coding-Ninjas-React-Router-main/src/pages/app/learn/Learn.jsx
+c6fe41bb42a31827a682eeb997632baff07febe5 Desktop/Coding-Ninjas-React-Router-main/src/pages/app/learn/Learn.module.css
+bcb640b9c7bd3a006b5f611c0b051628140690b3 Desktop/Coding-Ninjas-React-Router-main/src/pages/misc
+3cdcf2dbb7b90a2522391826257db6ccf7fac3b6 Desktop/Coding-Ninjas-React-Router-main/src/pages/misc/Page404
+c3d59fa354ffe00e8d135de25ba36fd07f18df0e Desktop/Coding-Ninjas-React-Router-main/src/pages/misc/Page404/Page404.jsx
+dd713ec005d18ccc86f7f0c3e0016393f79e3eef Desktop/Coding-Ninjas-React-Router-main/yarn.lock
+9a9f2ba7bc9409a6bb137b308a3c8c72707e8f83 Desktop/blogginapp
+2831599290e0eb771c3c5d2dacfbfce6d3d711bf Desktop/blogginapp copy
+a1223dcf372933b6c4b94a09e0f342d5964eff67 Desktop/blogginapp copy/package-lock.json
+61c7c471bf650d7ca3a63d134887ce44e678104e Desktop/blogginapp copy/package.json
+8e29b36dea7f04ae8729d8b33ecc05c3c9b0fe46 Desktop/blogginapp copy/public
+aa069f27cbd9d53394428171c3989fd03db73c76 Desktop/blogginapp copy/public/index.html
+a79a2a9db8d6afa32ee70efbd227287693a8bc75 Desktop/blogginapp copy/src
+803d7ef649c031b7670ce0234db5e1f1dbcd60b4 Desktop/blogginapp copy/src/App.js
+8c0b78f073ad6ec06948a9e7e8c0d07b27128721 Desktop/blogginapp copy/src/Components
+88542e1684cc00d9e31480e69cdb2a9f6c8b1096 Desktop/blogginapp copy/src/Components/Blog.js
+1c90291e6c5b1b23e84e037abeaad18dcc846d78 Desktop/blogginapp copy/src/firebaseinit.js
+c3c0e07c660de5568c0e9ff62f67bb0a266f27ca Desktop/blogginapp copy/src/index.css
+2cb1087e76eb7b33e49ace3622c9e108cd1ed64c Desktop/blogginapp copy/src/index.js
+b85a1eceeb5357b10ff10b6d37d3a5d8a15ad41d Desktop/blogginapp/src
+52ba058ddda26f48a916b0af832fda710c962733 Desktop/blogginapp/src/firebaseinit.js
+041fd565b91682c070dcfb870d3376bb1f1c5187 Downloads
+57c65705836be370c2945aebf635041cbd957837 Downloads
+d3b254ac3becbd27c509443281cbdfe26ebc16bf Downloads
+328fd6f3449ae1b1d032af3d37064eca2757d3a2 Downloads/Project
+108792b56b7553e4fe705c33fc12d05b27e20d23 Downloads/Project/ECOM backend nodeEXpres
+5a04554757adb37e9bdd36b9ace74406465c4099 Downloads/Project/ECOM backend nodeEXpres/.DS_Store
+fb7b616cfa8aad50f418175172b90abcfa982d3d Downloads/Project/ECOM backend nodeEXpres/.gitignore
+25b4dba61392cb5b9b23570bd40f2ef9839f9b6a Downloads/Project/ECOM backend nodeEXpres/APILIst.txt
+261866fc96d9e0903964baebe141ef6cd209f914 Downloads/Project/ECOM backend nodeEXpres/env.js
+2e3a6e271a372677a1d8705d05e36f531859d628 Downloads/Project/ECOM backend nodeEXpres/log.txt
+75ee7c39ef7c529439ef2cdfdbe039935646dc63 Downloads/Project/ECOM backend nodeEXpres/package-lock.json
+f3567817f7aa57777e92f4b4703b1071baa95099 Downloads/Project/ECOM backend nodeEXpres/package.json
+889ac3c5370259171bb8f34946bf03874a9b2ef5 Downloads/Project/ECOM backend nodeEXpres/server.js
+04c5cfef6102910223aabf406e74d2f95e582f73 Downloads/Project/ECOM backend nodeEXpres/src
+ec8409922b3644ee169c1c77ad00fc012e73c5b1 Downloads/Project/ECOM backend nodeEXpres/src/.DS_Store
+3da13fc79cc33e5f5150596be357086ba4aa3332 Downloads/Project/ECOM backend nodeEXpres/src/config
+413b114e5dbbe52b4bcd02ec81b76d194cd94afb Downloads/Project/ECOM backend nodeEXpres/src/config/mongodb.js
+1cd30bd8d3eba2a9034a2abcfc8a5c030e6890c7 Downloads/Project/ECOM backend nodeEXpres/src/config/mongooseConfig.js
+dd92d63c55ce4f63dbebe535fc080fdb87f02098 Downloads/Project/ECOM backend nodeEXpres/src/error-handler
+1879019fbdc31d6a911895365a7ceb0495297c81 Downloads/Project/ECOM backend nodeEXpres/src/error-handler/applicationError.js
+ed06ab5c5001db14061158f43b34904aec984146 Downloads/Project/ECOM backend nodeEXpres/src/features
+18cb57977eea3557c1be12387e49e7cf9b4e713a Downloads/Project/ECOM backend nodeEXpres/src/features/.DS_Store
+e54acf7b32cae316b8d41ea627127761500afecd Downloads/Project/ECOM backend nodeEXpres/src/features/cartItems
+2808e0559082711a358974b5092c73294a8ba294 Downloads/Project/ECOM backend nodeEXpres/src/features/cartItems/cartItems.controller.js
+a5f6dd1a1acb7abeedabe3b93fa5ddf3f00a3be7 Downloads/Project/ECOM backend nodeEXpres/src/features/cartItems/cartItems.model.js
+5610c6a2c02061125aa58e7e257743b9e265c05a Downloads/Project/ECOM backend nodeEXpres/src/features/cartItems/cartItems.repository.js
+47ec694786d9b370d5a3f461c7c7fd89204f2784 Downloads/Project/ECOM backend nodeEXpres/src/features/cartItems/cartItems.routes.js
+01bc0e51c02729b99aad01daa6474f4110ac0fa9 Downloads/Project/ECOM backend nodeEXpres/src/features/cartItems/cartItems.schema.js
+050de48f0f96e69873bc46aafe19d9ccc89a5717 Downloads/Project/ECOM backend nodeEXpres/src/features/like
+141bf7ef528c361527d846c1d1093fef74c9beb0 Downloads/Project/ECOM backend nodeEXpres/src/features/like/like.controller.js
+2c1495cef4364f25c2860a249ae120fc91e4da59 Downloads/Project/ECOM backend nodeEXpres/src/features/like/like.repository.js
+eab6d68a17d89091b6dd76e61ab157d68637fe4b Downloads/Project/ECOM backend nodeEXpres/src/features/like/like.routes.js
+ba173c3bcbeaded1f6dbae2eed022f17cbbea01f Downloads/Project/ECOM backend nodeEXpres/src/features/like/like.schema.js
+1842cfce060e929cad2ea00db8ab38c8fab1e8bd Downloads/Project/ECOM backend nodeEXpres/src/features/order
+bbf9191c894377be92a4aca7901aa50d15561f3e Downloads/Project/ECOM backend nodeEXpres/src/features/order/info.txt
+da87e634c572c8efdede6cc47507a0962fcceb48 Downloads/Project/ECOM backend nodeEXpres/src/features/order/order.controller.js
+be17bc02a280ef3e6f0ee25856c1b8bb502f9d2f Downloads/Project/ECOM backend nodeEXpres/src/features/order/order.model.js
+bca97df3462ab0b4871702f432b2f3347d3c7c13 Downloads/Project/ECOM backend nodeEXpres/src/features/order/order.repository.js
+e8aa3c183d37413a5df0a81f5eaab31cf13a7d3e Downloads/Project/ECOM backend nodeEXpres/src/features/order/order.routes.js
+83ef553cbf581e6d85efe826eec93f80ed60d26e Downloads/Project/ECOM backend nodeEXpres/src/features/product
+30157bfe40fe29a0924d6ae23cf8b04fde45d928 Downloads/Project/ECOM backend nodeEXpres/src/features/product/category.schema.js
+7e3bbb44be14861b89d4194cde5b4483fe49442f Downloads/Project/ECOM backend nodeEXpres/src/features/product/product.controller.js
+20fc151750a772cd851ec3a40c0e90f56f75e7d1 Downloads/Project/ECOM backend nodeEXpres/src/features/product/product.model.js
+7c5cebec1e094afdd31fdd9cb1254b99771a5a61 Downloads/Project/ECOM backend nodeEXpres/src/features/product/product.repository.js
+f5cf6e1d91fe1d87a4d95c31cae045b7e082515f Downloads/Project/ECOM backend nodeEXpres/src/features/product/product.routes.js
+7a5490032c650e09d204848fee2f8f4f639e27ac Downloads/Project/ECOM backend nodeEXpres/src/features/product/product.schema.js
+a7a07b48f0b937021328f9f4c135b88749371350 Downloads/Project/ECOM backend nodeEXpres/src/features/product/review.schema.js
+4f0acc5479b3696df1d62271c5219dae6777b8e3 Downloads/Project/ECOM backend nodeEXpres/src/features/user
+2d55977aa0edad4f0cee3c598da0723f16dad0eb Downloads/Project/ECOM backend nodeEXpres/src/features/user/user.controller.js
+49db1a84b23bb2e970deaf90e5a65f465d4776e8 Downloads/Project/ECOM backend nodeEXpres/src/features/user/user.model.js
+dfc827ea263b147dd7248bce646ba99f020045ba Downloads/Project/ECOM backend nodeEXpres/src/features/user/user.repository.js
+48611e0542b59100a8542cb3b390b1518feee8f7 Downloads/Project/ECOM backend nodeEXpres/src/features/user/user.repository_old.js
+ede2e49aa0aedfe9b772a8d3e10d892dee87dbb8 Downloads/Project/ECOM backend nodeEXpres/src/features/user/user.routes.js
+40c65eb24865d58271274c06922c5cacce443fe6 Downloads/Project/ECOM backend nodeEXpres/src/features/user/user.schema.js
+fe54a365b848e6016f605138d1ff5f44d17107a2 Downloads/Project/ECOM backend nodeEXpres/src/middlewares
+d23995dc268981e430c8cc7819a6c76d95af8cb2 Downloads/Project/ECOM backend nodeEXpres/src/middlewares/basicAuth.middleware.js
+ece384e434257546da9c2145f69bb0f7729fe091 Downloads/Project/ECOM backend nodeEXpres/src/middlewares/fileupload.middleware.js
+85b8ff11ee9f0376f7fed24c151c1c68fd7c9485 Downloads/Project/ECOM backend nodeEXpres/src/middlewares/jwt.middleware.js
+d40295723bee548a75d6e490b63836ccc943ece7 Downloads/Project/ECOM backend nodeEXpres/src/middlewares/logger.middleware.js
+3fb74294ed41cab25c5fa29f4d9db7c1984c6482 Downloads/Project/ECOM backend nodeEXpres/steps.txt
+c48165e08b93ffc0fa0bf40c07338b8daa4b5639 Downloads/Project/ECOM backend nodeEXpres/swagger.json
+88d0bd79f84014de9e46508c687f9126171dd3df Downloads/Project/ECOM backend nodeEXpres/uploads
+11fec19d4106500db4d2855ea0a921ceb99aaae2 Downloads/Project/ECOM backend nodeEXpres/uploads/2023-05-02T07_14_23.097ZUntitled.png
+194b35ef4b72bad8f34eed81728b6efb11705748 Downloads/Project/ECOM backend nodeEXpres/uploads/2024-06-20T13:47:54.896ZIMG20231024181057 (1).jpg
+3f3edb9ef22b266780cd9bd89ece7cdd8c08dfdd Downloads/scaffold
+f4cc7a03ca0a08abaa828afcfe2faada595d33fc Downloads/scaffold
+de71a2e4b6a8cabf6ad14eb292e160a7f9925b4f Downloads/scaffold/.gitattributes
+a60dcfc2dafc15a4f16ee1a13448f7e04f046b9c Downloads/scaffold/package-lock.json
+faa8fee94bd7ded7d3685b317a4ec6b8505bb16f Downloads/scaffold/package.json
+9114ac02c812b6b68eef040bfb2e443cb136541c Downloads/scaffold/public
+de3d0b1e42a0940931c8e83fa862a95c3a13e4e3 Downloads/scaffold/public/assets
+f224f62ea8f78f76e3ec92b7bf56775ccbf7a4fa Downloads/scaffold/public/assets/arrow.png
+68e3a5f91d81f845ccba173abecbc8342057996c Downloads/scaffold/public/assets/back.png
+eed087044a29094a90972455715c60bc7ed76fe7 Downloads/scaffold/public/assets/clear.png
+79802a1e3856fcb805346d874f99dc4fe253fc43 Downloads/scaffold/public/assets/edit.png
+b4e0adedb3e3de18e9b7f3de5bab8cf7c2bc1055 Downloads/scaffold/public/assets/logo.png
+5eb0e400c99f2ef457e12a4ce8c44de500d6c5b7 Downloads/scaffold/public/assets/photos.png
+b56564041b780ed7fc418175f7360fc6549d2d2f Downloads/scaffold/public/assets/search.png
+2e8ba280ca5fc7dc8b9862de53149e1671cc2829 Downloads/scaffold/public/assets/trash-bin.png
+927d575d732dbadfffe5ccb6e40b1722cd29ad88 Downloads/scaffold/public/assets/warning.png
+d25fef2c756b89d9dbdb5da73d1cf4258f5f0ad0 Downloads/scaffold/public/index.html
+30ccd09ea1a9c8a799bf63a3a316a2587f65c378 Downloads/scaffold/public/style.css
+ebd98fe22219bf0fbdb8763fbc8a1e470c971241 Downloads/scaffold/src
+52bb24dfabdd54a3a13991b48fd77cf5f72a283a Downloads/scaffold/src/App.js
+2afdd3e45e8e6d63a2998801b631fcdb13554f4f Downloads/scaffold/src/App.module.css
+ef34793684ba4fddb888d1e9b2d135996d7083f3 Downloads/scaffold/src/App.test.js
+59273d9d76cb645370c3c3601fc330c7edec80d3 Downloads/scaffold/src/components
+c942259afbd753bf44d73cd3786193431bcb56c6 Downloads/scaffold/src/components/albumForm
+bb3bfdd56f049ddc4b1789ea4e0e5c978ccafb9a Downloads/scaffold/src/components/albumForm/AlbumForm.js
+5dc5502da6d878be0f641a9ca7c7fa8311a97252 Downloads/scaffold/src/components/albumForm/albumForm.module.css
+82ec16734d858b197b36d6e3d49f1b47f69c9b19 Downloads/scaffold/src/components/albumsList
+1a6452efd7bf1b406a6220eb3e4bae8a6919d2aa Downloads/scaffold/src/components/albumsList/AlbumsList.js
+ba7b121abdd3d4d188bb03bc4e99a381aa0bd610 Downloads/scaffold/src/components/albumsList/albumsList.module.css
+374605569152e8a5413463b5f37a81607748fb74 Downloads/scaffold/src/components/carousel
+9b88794123867052424f1eef2b3610bb6ece8637 Downloads/scaffold/src/components/carousel/Carousel.js
+c29988f87e3c75578ac1ec92c0b19ffdff4fb42c Downloads/scaffold/src/components/carousel/carousel.module.css
+9d27752bb89f9a429f7b79350e22bb88d948cb3b Downloads/scaffold/src/components/imageForm
+d38d1b9e1bfbae0aee536e25511cf64fb6038e93 Downloads/scaffold/src/components/imageForm/ImageForm.js
+5bc255149af8a51c4b59a7694b9491fab43f87c0 Downloads/scaffold/src/components/imageForm/imageForm.module.css
+1a5416b7368028b0f752fbd7453876e98e1ed709 Downloads/scaffold/src/components/imagesList
+93db6354eee554f192f58b7c75904488a8abdbf8 Downloads/scaffold/src/components/imagesList/ImagesList.js
+61e95fb180efea88a09e29ccff75e0c17effb559 Downloads/scaffold/src/components/imagesList/imageList.module.css
+de235205c1491f3ec07d06c58464695baf92c7d4 Downloads/scaffold/src/components/navbar
+369c728668f8a8f6ec67f51271bfc7acf4170581 Downloads/scaffold/src/components/navbar/Navbar.js
+cf2bf90cea806ed319a7c934f6bca6f5609fdb4f Downloads/scaffold/src/components/navbar/navbar.module.css
+e74d29e8742e24075784cbc339ce51bd1348b2c6 Downloads/scaffold/src/firebase.js
+e9606c42d049aafd215b928d78647c6e23b4e60b Downloads/scaffold/src/index.js
+7e1e606a2f344fbe4a3026d7ac50316253c36af8 Info2.txt
